@@ -6,7 +6,7 @@
 # Copyright (C) 2020 KFERMercer
 #
 # Clark 2022 OpenWRT
-name: OpenWrt-CI
+name: OpenWrt-Clark
 
 on:
   schedule:
