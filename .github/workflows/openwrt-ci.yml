@@ -5,8 +5,8 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-# Clark 22 WRT
-name: OpenWrt-CI
+# Clark 23 WRT
+name: OpenWrt-Lede
 
 on:
   schedule:
